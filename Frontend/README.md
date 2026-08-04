@@ -30,4 +30,4 @@ http://localhost:5173
 
 ## Autor
 
-**Gabriel Marques Ribeiro**
+**Gabriely Souza Alves de Oliveira**
